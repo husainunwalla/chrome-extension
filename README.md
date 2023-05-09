@@ -1,4 +1,7 @@
 # chrome-extension
+
+# Disclaimer: This code is not intended to be used as is, but rather modified / referenced for your assignment.
+
 This template is intended for COEN 296A: Attention Management Tools, Assignment 3.
 
 To load an unpacked extension in developer mode:
