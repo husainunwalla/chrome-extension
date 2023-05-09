@@ -12,5 +12,9 @@
       "js": ["helloworld.js"],
       "matches": ["https://www.youtube.com/*"]
     }
-  ]
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "permissions": ["storage", "activeTab", "scripting"]
 }
